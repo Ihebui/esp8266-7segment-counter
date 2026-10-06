@@ -1,7 +1,7 @@
-# Site settings
-title: esp8266-7segment-counter
+  # Site settings
+title: Esp8266-7Segment-Counter
 description: Welcome to my Esp8266-7Segment-Counter Project!
 
 # Theme Selection 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 # remote_theme: username/repo-name
