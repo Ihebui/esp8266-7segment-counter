@@ -1,0 +1,7 @@
+# Site settings
+title: esp8266-7segment-counter
+description: Welcome to my esp8266-7segment-counter site!
+
+# Theme Selection (Choose ONE of the lines below)
+theme: jekyll-theme-minimal
+# remote_theme: username/repo-name
