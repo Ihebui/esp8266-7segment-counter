@@ -3,5 +3,5 @@ title: esp8266-7segment-counter
 description: Welcome to my esp8266-7segment-counter site!
 
 # Theme Selection (Choose ONE of the lines below)
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # remote_theme: username/repo-name
